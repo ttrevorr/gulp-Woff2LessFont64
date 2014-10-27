@@ -1,10 +1,10 @@
 var assert   = require('assert');
 var gutil    = require('gulp-util');
-var cssfont64 = require('../index');
+var lessfont64 = require('../index');
 var fs       = require('fs');
 var path     = require('path');
 
-describe('gulp-cssfont64', function() {
+describe('gulp-Woff2LessFont64', function() {
 	describe('in buffer mode', function() {
 
 		it('should encode fonts to base64 and generate a less file', function(done) {
