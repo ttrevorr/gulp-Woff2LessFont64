@@ -1,4 +1,3 @@
-'use strict';
 var gutil = require('gulp-util');
 var PluginError = gutil.PluginError;
 var through = require('through2');
@@ -7,7 +6,7 @@ var path = require('path');
 var mime = require('mime');
 
 // consts
-const PLUGIN_NAME = 'gulp-Woff2LessFont64';
+var PLUGIN_NAME = 'gulp-Woff2LessFont64';
 
 module.exports = function() {
 
