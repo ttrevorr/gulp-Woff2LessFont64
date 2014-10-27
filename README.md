@@ -1,4 +1,4 @@
-# gulp-cssfont64 [![Build Status](https://travis-ci.org/ttrevorr/gulp-Woff2LessFont64.png?branch=master)](https://travis-ci.org/ttrevorr/gulp-Woff2LessFont64)
+# gulp-Woff2LessFont64 [![Build Status](https://travis-ci.org/ttrevorr/gulp-Woff2LessFont64.png?branch=master)](https://travis-ci.org/ttrevorr/gulp-Woff2LessFont64)
 
 Take a Woff font file and base 64 encode it into a less(css) file.
 
